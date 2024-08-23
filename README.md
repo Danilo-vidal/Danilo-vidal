@@ -2,12 +2,12 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Danilo Vidal 😃️</a>
+    <a href="https://www.linkedin.com/in/danilo-vidal-0a09284a/">Danilo Vidal 😃️</a>
   </h1>
   
   <p align="center">
     Sou Analista DevOps e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    <a href="https://www.youtube.com/@danilorbg4169" target="_blank">
       <img
            width="10%" 
            align="center" 
