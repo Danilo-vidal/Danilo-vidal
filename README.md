@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Olá Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/danilo-vidal-0a09284a/">Danilo Vidal 😃️</a>
   </h1>
   
