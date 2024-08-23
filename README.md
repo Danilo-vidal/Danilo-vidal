@@ -12,7 +12,7 @@
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
+           src="https://img.shields.io/youtube/channel/subscribers/L1doS2seg9c?si=VHgA9jnL_KL-vM3s=iCode&style=social" 
            target="_blank" 
       />
     </a>  
